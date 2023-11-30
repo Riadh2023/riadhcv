@@ -1,3 +1,5 @@
+
+
 import eight from '../assets/svg/projects/eight.svg'
 import five from '../assets/svg/projects/five.svg'
 import four from '../assets/svg/projects/four.svg'
@@ -11,14 +13,14 @@ import two from '../assets/svg/projects/two.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
+        projectName: 'Tunisie Informatique Service',
+        projectDesc: 'Développer une application de gestion du service après-vente',
         tags: ['React', 'SAAS', 'React Bootstrap'],
         code: '',
-        demo: 'https://www.aylanetworks.com/',
+        demo: 'https://www.facebook.com/p/Tunisie-Informatique-Services-100088698022983/',
         image: six
     },
-    {
+   /* {
         id: 2,
         projectName: 'Jewelry Niche',
         projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
@@ -80,7 +82,7 @@ export const projectsData = [
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
-    },
+    },*/
 ]
 
 

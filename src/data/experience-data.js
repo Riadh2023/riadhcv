@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Teton Private Limited',
-        jobtitle: 'Software Engineer I',
-        startYear: 'Jan 2022',
+        company: ' UIB, Tunis',
+        jobtitle: 'Responsable Bureautique :',
+        startYear: '2017',
         endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Fiverr(freelance)',
-        jobtitle: 'Full-Stack Developer',
-        startYear: 'Jun 2021',
-        endYear: 'Jan 2022'
+        company: 'UIB, Tunis',
+        jobtitle: 'Technicien Bureautique ',
+        startYear: '2005',
+        endYear: '2016'
     },
     {
         id: 3,
-        company: 'Learning New Technology For Everyday',
-        jobtitle: 'Self Learning',
-        startYear: '2018',
-        endYear: 'Present'
+        company: 'Tunisie Informatique services , Tunis',
+        jobtitle: 'Développeur application ',
+        startYear: '2005',
+        endYear: '2005'
     },
 ]
