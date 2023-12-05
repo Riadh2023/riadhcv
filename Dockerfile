@@ -1,15 +1,12 @@
 FROM node:16-alpine
 
-RUN mkdir -p /usr/app/
-
-WORKDIR /usr/app/
-
-COPY package*.json .
-
-RUN npm install --force
+WORKDIR /app
 
 COPY ./ ./
 
+RUN npm install --force
+
+RUN npm run build
 
 EXPOSE 3000
 
